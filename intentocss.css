@@ -69,7 +69,6 @@ h1 { font-size: 10em;
     font-family: Calibri;
 }
 
-
 .btn3 {
 	background-color: #003463;
 	border: 5px;
@@ -123,4 +122,159 @@ p {
 	margin: 5%;
 	font-size: 1em;
 	font-family: Calibri;
+}
+
+.primer {background-color: #003463}
+
+.btn22 {
+	background-color: #003463;
+	border: 5px;
+	padding: 15px 32px;
+	text-align: center;
+	color: white;
+	font-size: 3em;
+	margin: 4px 2px;
+	cursor: pointer;
+    display: inline-block;
+    font-family: Calibri;
+    margin-left: 75%;
+}
+
+.btn01 {
+	background-color: #003463;
+	border: 5px;
+	padding: 15px 32px;
+	text-align: center;
+	color: white;
+	font-size: 3em;
+	margin: 4px 2px;
+	cursor: pointer;
+    display: inline-block;
+    font-family: Calibri;
+ 
+}
+
+.segundo {
+	background-color: #003463;
+}
+
+.btn33 {
+	background-color: #003463;
+	border: 5px;
+	padding: 15px 32px;
+	text-align: center;
+	color: white;
+	font-size: 3em;
+	margin: 4px 2px;
+	cursor: pointer;
+    display: inline-block;
+    font-family: Calibri;
+    margin-left: 68%;
+}
+
+.btn11 {
+	background-color: #003463;
+	border: 5px;
+	padding: 15px 32px;
+	text-align: center;
+	color: white;
+	font-size: 3em;
+	margin: 4px 2px;
+	cursor: pointer;
+    display: inline-block;
+    font-family: Calibri;
+ 
+}
+
+.tercero {
+	background-color: #003463;
+}
+
+.btn222 {
+	background-color: #003463;
+	border: 5px;
+	padding: 15px 32px;
+	text-align: center;
+	color: white;
+	font-size: 3em;
+	margin: 4px 2px;
+	cursor: pointer;
+    display: inline-block;
+    font-family: Calibri;
+}
+
+.btn44 {
+	background-color: #003463;
+	border: 5px;
+	padding: 15px 32px;
+	text-align: center;
+	color: white;
+	font-size: 3em;
+	margin: 4px 2px;
+	cursor: pointer;
+    display: inline-block;
+    font-family: Calibri;
+    margin-left: 75%;
+}
+
+.cuarto {
+	background-color: #003463;
+}
+.btn333 {
+	background-color: #003463;
+	border: 5px;
+	padding: 15px 32px;
+	text-align: center;
+	color: white;
+	font-size: 3em;
+	margin: 4px 2px;
+	cursor: pointer;
+    display: inline-block;
+    font-family: Calibri;
+}
+
+
+.btn55 {
+	background-color: #003463;
+	border: 5px;
+	padding: 15px 32px;
+	text-align: center;
+	color: white;
+	font-size: 3em;
+	margin: 4px 2px;
+	cursor: pointer;
+    display: inline-block;
+    font-family: Calibri;
+    margin-left: 65%;
+}
+
+.quinta {
+	background-color: #003463;
+}
+.btn111 {
+	background-color: #003463;
+	border: 5px;
+	padding: 15px 32px;
+	text-align: center;
+	color: white;
+	font-size: 3em;
+	margin: 4px 2px;
+	cursor: pointer;
+    display: inline-block;
+    font-family: Calibri;
+    margin-left: 75%;
+}
+
+
+.btn555 {
+	background-color: #003463;
+	border: 5px;
+	padding: 15px 32px;
+	text-align: center;
+	color: white;
+	font-size: 3em;
+	margin: 4px 2px;
+	cursor: pointer;
+    display: inline-block;
+    font-family: Calibri;
 }
