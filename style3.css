@@ -13,7 +13,7 @@ body{
 
 .container .box{
 	position: relative;
-	width: calc(1200px - 30px);
+	width: calc(400px - 30px);
 	height: calc(300px - 30px);
 	background: #000;
 	float: left;
@@ -93,4 +93,3 @@ body{
 	padding: 0;
 	color: #fff;
 }
-
