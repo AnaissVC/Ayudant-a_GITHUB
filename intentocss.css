@@ -10,30 +10,30 @@ body {background-color: #001249;}
 	position: relative;
 	z-index: 1; }
 
-h2 { font-size: 5em;
+h2 { font-size: 10em;
 	color: white;
 	font-family: Calibri;
 	text-align: center;
 margin-bottom: 5%;
-margin-top: -3%;
+margin-top: -6%;
 padding: 0px;
 }
 
-h3 { font-size: 5em;
+h3 { font-size: 10em;
 	color: white;
 	font-family: Calibri;
 	text-align: center;
-margin-bottom: -3%;
+margin-bottom: -6%;
 margin-top: 5%; 
 padding: 0px;
 }
 
-h1 { font-size: 10em;
+h1 { font-size: 16em;
 	color: white;
 	font-family: Calibri;
 	text-align: center;
-	margin-top: -3%;
-	margin-bottom: -3%;
+	margin-top: -6%;
+	margin-bottom: -6%;
 	padding: 0px;
 }
 
@@ -109,19 +109,24 @@ h1 { font-size: 10em;
 }
 
 h4 {
-	margin-top: 5%;
+	margin-top: 2%;
 	color: white;
-	margin: 5%;
-	font-size: 3em;
+	margin-left: 5%;
+	font-size: 4em;
 	font-family: Calibri;
+	margin-bottom: 2%;
 }
 
 p {
-	margin-top: 5%;
+	margin-top: 2%;
+	margin-left: 5%;
+	margin-right: 5%;
 	color: white;
-	margin: 5%;
-	font-size: 1em;
+	font-size: 2em;
 	font-family: Calibri;
+	margin-bottom: 2%;
+	text-align: justify
+	;
 }
 
 .primer {background-color: #003463}
