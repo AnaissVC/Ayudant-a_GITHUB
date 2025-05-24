@@ -1,11 +1,11 @@
-body {background-color: #001249;}
+body {background-color: #001549;}
 
 .contenedor1 {
 	display: inline-block;
 	margin: 0 auto;
 	margin-left: 0%;
 	margin-right: 0%;
-	background-color: #001249;
+	background-color: #001549;
 	width: 100%;
 	position: relative;
 	z-index: 1; }
@@ -14,18 +14,18 @@ h2 { font-size: 10em;
 	color: white;
 	font-family: Calibri;
 	text-align: center;
-margin-bottom: 5%;
-margin-top: -6%;
-padding: 0px;
+    margin-bottom: 5%;
+    margin-top: -6%;
+    padding: 0px;
 }
 
 h3 { font-size: 10em;
 	color: white;
 	font-family: Calibri;
 	text-align: center;
-margin-bottom: -6%;
-margin-top: 5%; 
-padding: 0px;
+    margin-bottom: -6%;
+    margin-top: 5%; 
+    padding: 0px;
 }
 
 h1 { font-size: 16em;
@@ -38,11 +38,11 @@ h1 { font-size: 16em;
 }
 
 .botones {
-	background-color: #003463;
+	background-color: #15376f;
 }
 
 .btn1 {
-	background-color:#003463;
+	background-color:#15376f;
 	border: 5px;
 	padding: 15px 32px;
 	text-align: center;
@@ -57,7 +57,7 @@ h1 { font-size: 16em;
 }
 
 .btn2 {
-	background-color: #003463;
+	background-color: #15376f;
 	border: 5px;
 	padding: 15px 32px;
 	text-align: center;
@@ -70,7 +70,7 @@ h1 { font-size: 16em;
 }
 
 .btn3 {
-	background-color: #003463;
+	background-color: #15376f;
 	border: 5px;
 	padding: 15px 32px;
 	text-align: center;
@@ -83,7 +83,7 @@ h1 { font-size: 16em;
 }
 
 .btn4 {
-	background-color: #003463;
+	background-color: #15376f;
 	border: 5px;
 	padding: 15px 32px;
 	text-align: center;
@@ -96,7 +96,7 @@ h1 { font-size: 16em;
 }
 
 .btn5 {
-	background-color: #003463;
+	background-color: #15376f;
 	border: 5px;
 	padding: 15px 32px;
 	text-align: center;
@@ -125,14 +125,13 @@ p {
 	font-size: 2em;
 	font-family: Calibri;
 	margin-bottom: 2%;
-	text-align: justify
-	;
+	text-align: justify;
 }
 
-.primer {background-color: #003463}
+.primer {background-color: #15376f}
 
 .btn22 {
-	background-color: #003463;
+	background-color: #15376f;
 	border: 5px;
 	padding: 15px 32px;
 	text-align: center;
@@ -146,7 +145,7 @@ p {
 }
 
 .btn01 {
-	background-color: #003463;
+	background-color: #15376f;
 	border: 5px;
 	padding: 15px 32px;
 	text-align: center;
@@ -160,11 +159,11 @@ p {
 }
 
 .segundo {
-	background-color: #003463;
+	background-color: #15376f;
 }
 
 .btn33 {
-	background-color: #003463;
+	background-color: #15376f;
 	border: 5px;
 	padding: 15px 32px;
 	text-align: center;
@@ -178,7 +177,7 @@ p {
 }
 
 .btn11 {
-	background-color: #003463;
+	background-color: #15376f;
 	border: 5px;
 	padding: 15px 32px;
 	text-align: center;
@@ -192,11 +191,11 @@ p {
 }
 
 .tercero {
-	background-color: #003463;
+	background-color: #15376f;
 }
 
 .btn222 {
-	background-color: #003463;
+	background-color: #15376f;
 	border: 5px;
 	padding: 15px 32px;
 	text-align: center;
@@ -209,7 +208,7 @@ p {
 }
 
 .btn44 {
-	background-color: #003463;
+	background-color: #15376f;
 	border: 5px;
 	padding: 15px 32px;
 	text-align: center;
@@ -223,10 +222,10 @@ p {
 }
 
 .cuarto {
-	background-color: #003463;
+	background-color: #15376f;
 }
 .btn333 {
-	background-color: #003463;
+	background-color: #15376f;
 	border: 5px;
 	padding: 15px 32px;
 	text-align: center;
@@ -240,7 +239,7 @@ p {
 
 
 .btn55 {
-	background-color: #003463;
+	background-color: #15376f;
 	border: 5px;
 	padding: 15px 32px;
 	text-align: center;
@@ -254,10 +253,10 @@ p {
 }
 
 .quinta {
-	background-color: #003463;
+	background-color: #15376f;
 }
 .btn111 {
-	background-color: #003463;
+	background-color: #15376f;
 	border: 5px;
 	padding: 15px 32px;
 	text-align: center;
@@ -272,7 +271,7 @@ p {
 
 
 .btn555 {
-	background-color: #003463;
+	background-color: #15376f;
 	border: 5px;
 	padding: 15px 32px;
 	text-align: center;
