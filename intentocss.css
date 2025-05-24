@@ -10,30 +10,31 @@ body {background-color: #001549;}
 	position: relative;
 	z-index: 1; }
 
-h2 { font-size: 10em;
+h2 { font-size: 9em;
 	color: white;
-	font-family: Calibri;
+	font-family: "koulen", system-ui;
 	text-align: center;
     margin-bottom: 5%;
     margin-top: -6%;
     padding: 0px;
 }
 
-h3 { font-size: 10em;
+
+h3 { font-size: 9em;
 	color: white;
-	font-family: Calibri;
+	font-family: "koulen", system-ui;
 	text-align: center;
     margin-bottom: -6%;
-    margin-top: 5%; 
+    margin-top: 4%; 
     padding: 0px;
 }
 
 h1 { font-size: 16em;
 	color: white;
-	font-family: Calibri;
+	font-family: "koulen", system-ui;
 	text-align: center;
 	margin-top: -6%;
-	margin-bottom: -6%;
+	margin-bottom: -5%;
 	padding: 0px;
 }
 
@@ -53,7 +54,7 @@ h1 { font-size: 16em;
     display: inline-block;
     align-content: center;
      margin-left: 13%;
-    font-family: Calibri;
+    font-family: "koulen", system-ui;
 }
 
 .btn2 {
@@ -66,7 +67,7 @@ h1 { font-size: 16em;
 	margin: 4px 2px;
 	cursor: pointer;
     display: inline-block;
-    font-family: Calibri;
+    font-family: "koulen", system-ui;
 }
 
 .btn3 {
@@ -79,7 +80,7 @@ h1 { font-size: 16em;
 	margin: 4px 2px;
 	cursor: pointer;
     display: inline-block;
-    font-family: Calibri;
+    font-family: "koulen", system-ui;
 }
 
 .btn4 {
@@ -92,7 +93,7 @@ h1 { font-size: 16em;
 	margin: 4px 2px;
 	cursor: pointer;
     display: inline-block;
-    font-family: Calibri;
+    font-family: "koulen", system-ui;
 }
 
 .btn5 {
@@ -105,7 +106,7 @@ h1 { font-size: 16em;
 	margin: 4px 2px;
 	cursor: pointer;
     display: inline-block;
-    font-family: Calibri
+    font-family: "koulen", system-ui;
 }
 
 h4 {
@@ -113,7 +114,7 @@ h4 {
 	color: white;
 	margin-left: 5%;
 	font-size: 4em;
-	font-family: Calibri;
+	font-family: "koulen", system-ui;
 	margin-bottom: 2%;
 }
 
@@ -140,7 +141,7 @@ p {
 	margin: 4px 2px;
 	cursor: pointer;
     display: inline-block;
-    font-family: Calibri;
+    font-family: "koulen", system-ui;
     margin-left: 75%;
 }
 
@@ -154,7 +155,7 @@ p {
 	margin: 4px 2px;
 	cursor: pointer;
     display: inline-block;
-    font-family: Calibri;
+    font-family: "koulen", system-ui;
  
 }
 
@@ -172,8 +173,8 @@ p {
 	margin: 4px 2px;
 	cursor: pointer;
     display: inline-block;
-    font-family: Calibri;
-    margin-left: 68%;
+    font-family: "koulen", system-ui;
+    margin-left: 65%;
 }
 
 .btn11 {
@@ -186,8 +187,7 @@ p {
 	margin: 4px 2px;
 	cursor: pointer;
     display: inline-block;
-    font-family: Calibri;
- 
+    font-family: "koulen", system-ui;
 }
 
 .tercero {
@@ -204,7 +204,7 @@ p {
 	margin: 4px 2px;
 	cursor: pointer;
     display: inline-block;
-    font-family: Calibri;
+    font-family: "koulen", system-ui;
 }
 
 .btn44 {
@@ -217,8 +217,8 @@ p {
 	margin: 4px 2px;
 	cursor: pointer;
     display: inline-block;
-    font-family: Calibri;
-    margin-left: 75%;
+    font-family: "koulen", system-ui;
+    margin-left: 70%;
 }
 
 .cuarto {
@@ -234,7 +234,7 @@ p {
 	margin: 4px 2px;
 	cursor: pointer;
     display: inline-block;
-    font-family: Calibri;
+   font-family: "koulen", system-ui;
 }
 
 
@@ -249,7 +249,7 @@ p {
 	cursor: pointer;
     display: inline-block;
     font-family: Calibri;
-    margin-left: 65%;
+    margin-left: 60%;
 }
 
 .quinta {
@@ -265,8 +265,8 @@ p {
 	margin: 4px 2px;
 	cursor: pointer;
     display: inline-block;
-    font-family: Calibri;
-    margin-left: 75%;
+    font-family: "koulen", system-ui;
+    margin-left: 70%;
 }
 
 
@@ -280,5 +280,5 @@ p {
 	margin: 4px 2px;
 	cursor: pointer;
     display: inline-block;
-    font-family: Calibri;
+    font-family: "koulen", system-ui;
 }
