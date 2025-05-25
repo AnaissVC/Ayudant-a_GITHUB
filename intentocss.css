@@ -5,7 +5,10 @@ body {background-color: #001549;}
 	margin: 0 auto;
 	margin-left: 0%;
 	margin-right: 0%;
-	background-color: #001549;
+	background-image: url("backgroundtitle.png");
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
 	width: 100%;
 	position: relative;
 	z-index: 1;
@@ -381,6 +384,42 @@ display: flex;
  }
 
 .texto-proyecto {
+  flex: 1 1 65%;
+  color: white;
+  font-size: 1.2em;
+  font-family: Calibri, sans-serif;
+}
+
+
+
+
+.contenedor-proyectoo {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  align-items: flex-start;
+    flex-direction: row-reverse;
+}
+
+.imagenes-proyectoo {
+display: flex;
+  flex-direction: column;
+  gap: 1px;
+  flex: 1 1 30%;
+  max-width: 250px;
+}
+
+.imagenes-proyectoo img {
+  width: 100%;
+  height: auto;%; 
+  display: block;
+  gap: 1px; 
+  max-width: 600px;
+  object-fit: contain;
+  margin-right: 50px;
+ }
+
+.texto-proyectoo {
   flex: 1 1 65%;
   color: white;
   font-size: 1.2em;
