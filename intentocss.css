@@ -398,25 +398,27 @@ display: flex;
   flex-wrap: wrap;
   gap: 20px;
   align-items: flex-start;
-    flex-direction: row-reverse;
+  flex-direction: row-reverse;
+  max-width: 100%;
+  overflow: hidden;
 }
 
 .imagenes-proyectoo {
-display: flex;
+  display: flex;
   flex-direction: column;
-  gap: 1px;
+  gap: 10px;
   flex: 1 1 30%;
-  max-width: 250px;
+  max-width: 100%;
 }
 
 .imagenes-proyectoo img {
-  width: 100%;
+  width: 200%;
   height: auto;%; 
   display: block;
-  gap: 1px; 
+  gap: 5px; 
   max-width: 600px;
   object-fit: contain;
-  margin-right: 50px;
+  margin-right: 0;
  }
 
 .texto-proyectoo {
