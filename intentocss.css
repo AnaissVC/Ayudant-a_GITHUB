@@ -133,6 +133,7 @@ h4 {
 }
 
 p {
+	font-size: clamp(2rem, 6vw, 5rem);
 	margin-top: 2%;
 	margin-left: 5%;
 	margin-right: 5%;
@@ -321,3 +322,37 @@ p {
   overflow: hidden;
   background-color: #f1f1f1;
 }
+
+
+
+
+
+.collapsible {
+  background-color: #15376f;
+  color: white;
+  cursor: pointer;
+  padding: 18px;
+  width: 100%;
+  border: none;
+  text-align: left;
+  outline: none;
+  font-size: 15px;
+}
+
+.active, .collapsible:hover {
+  background-color: #1d468a;
+}
+
+.content2 {
+  padding: 0 18px;
+  display: none;
+  overflow: hidden;
+  background-color: #cyan;
+}
+
+.content2 h1 {
+  font-size: 20px;
+  font-family: serif;
+  background-color: darkcyan;
+}
+
