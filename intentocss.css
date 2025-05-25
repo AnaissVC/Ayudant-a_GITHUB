@@ -300,32 +300,6 @@ p {
     font-family: "koulen", system-ui;
 }
 
-.collapsible {
-  background-color: #eee;
-  color: #444;
-  cursor: pointer;
-  padding: 18px;
-  width: 100%;
-  border: none;
-  text-align: left;
-  
-  outline: none;
-  font-size: 15px;
-}
-
-
-.active, .collapsible:hover {
-  background-color: #ccc;
-}
-
-.content {
-  padding: 0 18px;
-  display: none;
-  overflow: hidden;
-  background-color: #f1f1f1;
-}
-
-
 
 
 
@@ -346,14 +320,69 @@ p {
 }
 
 .content2 {
-  padding: 0 18px;
-  display: none;
+  padding: 18px;
   overflow: hidden;
-  background-color: #cyan;
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  display: none;
+
 }
+
 
 .content2 h1 {
   font-size: 20px;
   font-family: serif;
   background-color: darkcyan;
+}
+
+.imgbill {
+	width: 100%;
+	height: auto;
+	display: block;
+  object-fit: contain;
+  margin-bottom: 10px;
+
+}
+
+.imghiroshi {
+	width: 100%;
+	height: auto;
+	display: block;
+  object-fit: contain;
+  margin-bottom: 10px;
+
+}
+
+.contenedor-proyecto {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  align-items: flex-start;
+}
+
+.imagenes-proyecto {
+display: flex;
+  flex-direction: column;
+  gap: 1px;
+  flex: 1 1 30%;
+  max-width: 250px;
+}
+
+.imagenes-proyecto img {
+  width: 100%;
+  height: auto;%; 
+  display: block;
+  gap: 1px; 
+  max-width: 600px;
+  object-fit: contain;
+  margin-left: 50px;
+ }
+
+.texto-proyecto {
+  flex: 1 1 65%;
+  color: white;
+  font-size: 1.2em;
+  font-family: Calibri, sans-serif;
 }
